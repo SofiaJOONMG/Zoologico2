@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akane\\OneDrive\\Documentos\\Visual Studio 2022\\Zoologico2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00A999CF-D016-4E75-9BC3-851AA5E6C3C8}|Zoologico2\\Zoologico2.csproj|c:\\users\\akane\\onedrive\\documentos\\visual studio 2022\\zoologico2\\zoologico2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A999CF-D016-4E75-9BC3-851AA5E6C3C8}|Zoologico2\\Zoologico2.csproj|solutionrelative:zoologico2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\akane\\OneDrive\\Documentos\\Visual Studio 2022\\Zoologico2\\Zoologico2\\Program.cs",
+              "RelativeDocumentMoniker": "Zoologico2\\Program.cs",
+              "ToolTip": "C:\\Users\\akane\\OneDrive\\Documentos\\Visual Studio 2022\\Zoologico2\\Zoologico2\\Program.cs",
+              "RelativeToolTip": "Zoologico2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T01:58:22.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
